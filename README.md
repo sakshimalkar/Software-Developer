@@ -17,28 +17,6 @@
 
 ---
 
-## 👩‍💻 About Me
-
-
-class SakshiMalkar:
-    def __init__(self):
-        self.name       = "Sakshi Malkar"
-        self.location   = "Pune, Maharashtra, India 🇮🇳"
-        self.education  = "BCA — Shivaji University (74.59%)"
-        self.role       = "Software Developer"
-        self.stack      = ["Python", "Django", "React.js", "REST APIs", "PostgreSQL"]
-        self.cloud      = ["Microsoft Azure App Service", "AWS Fundamentals"]
-        self.devops     = ["Git CI/CD", "GitHub Actions", "Docker fundamentals", "Kubernetes concepts"]
-        self.training   = ["SevenMentor Full Stack (2025)", "Deloitte Simulation", "BCG GenAI Simulation"]
-        self.languages  = ["Hindi", "Marathi", "English"]
-        self.currently  = "Learning Go & System Design"
-
-    def fun_fact(self):
-        return "I've deployed to Azure AND AWS — and I'm still in college! 🔥"
-
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
