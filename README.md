@@ -19,7 +19,7 @@
 
 ## 👩‍💻 About Me
 
-```python
+
 class SakshiMalkar:
     def __init__(self):
         self.name       = "Sakshi Malkar"
@@ -35,7 +35,7 @@ class SakshiMalkar:
 
     def fun_fact(self):
         return "I've deployed to Azure AND AWS — and I'm still in college! 🔥"
-```
+
 
 ---
 
